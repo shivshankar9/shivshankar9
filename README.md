@@ -1,5 +1,19 @@
 ### Hi there 👋
-I am shiv
+I am shivshankar kumar,
+1st year computer science student from arka jain university
+- 🔭 I’m currently working on Structurex project
+- 🌱 I’m currently learning programming
+- 👯 I’m looking to work on some skill improving projects
+- 🤔 I’m looking for help with comptettive programming ...
+- 💬 Ask me about anything ...
+- 📫 How to reach me: just drop mail shivshankarkumar281@gmail.com
+- 😄 Pronouns: shiv..
+- ⚡ Fun fact: 
+![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shivshankar9)](https://github.com/shivshankar9/github-readme-stats)
+
+
 
 <!--
 **shivshankar9/shivshankar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
