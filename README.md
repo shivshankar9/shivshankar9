@@ -9,9 +9,9 @@ I am shivshankar kumar,
 - 📫 How to reach me: just drop mail shivshankarkumar281@gmail.com
 - 😄 Pronouns: shiv..
 - ⚡ Fun fact: 
-![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhpreet-singh1&show_icons=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shivshankar9)](https://github.com/shivshankar9/github-readme-stats)
+
+[![shiv's github stats](https://github-readme-stats.vercel.app/api?username=shivshankar9)](https://github.com/shivshankar9/github-readme-stats)
 
 
 
