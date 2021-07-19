@@ -1,3 +1,11 @@
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+
+&nbsp;
 <table align="center">
 <thead>
 <tr>
@@ -30,7 +38,10 @@
 - 📫 How to reach me: ***Shivshankarkumar281@gmail.com***
 - 😄 Pronouns: Shiv........
 </tr>
--->
+
+
+
+
 <tr>
 <th style="text-align:center">  Connect with me 
 </tr>
@@ -42,6 +53,7 @@
 <a href="https://instagram.com/shivshankr_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivshankr_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivshankr_?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivshankr_?hr_r=1" height="30" width="40" /></a></p>
 </tr>
+-->
 <tr>
 <th style="text-align:center">Languages and Tools:
 </tr>
