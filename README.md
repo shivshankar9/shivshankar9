@@ -31,17 +31,7 @@
 - 😄 Pronouns: Shiv........
 </tr>
 -->
-<tr>
-<th style="text-align:center">  Connect with me 
-</tr>
-<tr>
-<th style="text-align:center">
-<p align="center">
-<a href="https://twitter.com/shivshankr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shishankar9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivshankarkumar281" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shishankar9" height="30" width="40" /></a>
-<a href="https://instagram.com/shivshankr_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivshankr_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivshankr_?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivshankr_?hr_r=1" height="30" width="40" /></a></p>
-</tr>
+
 <tr>
 <th style="text-align:center">Languages and Tools:
 </tr>
@@ -52,3 +42,19 @@
 </tr>
 </thead>
 </table>
+<h2 align="center">Connect! with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<p align="center"> 
+<a href="https://discord.gg/#"><img alt="discord_logo" 
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
+&nbsp;
+<a href="https://twitter.com/shivshankr_"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+&nbsp;
+<a href="mailto:shivshankarkumar281@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+&nbsp;
+<a href="https://github.com/shivshankar9"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shivshankarkumar281/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+ <a href="https://www.instagram.com/shivshankr_" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+
+<br>
+
