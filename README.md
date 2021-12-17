@@ -42,9 +42,9 @@
 </tr>
 </thead>
 </table>
-<h2 align="center">Connect! with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h2 align="center">Let's be Friends<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align="center"> 
-<a href="https://discord.gg/#"><img alt="discord_logo" 
+<a href="https://discord.gg/shiv#1698"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
 &nbsp;
 <a href="https://twitter.com/shivshankr_"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
