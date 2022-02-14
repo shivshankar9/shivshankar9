@@ -14,7 +14,7 @@
 
 | Languages| Current Challlenge| 🔭 Current project/s|
 |-----|---------|:--------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankar9&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <a href="https://github.com/IIITKalyaniFOSC/GitTub"><img src="./assets/image.png" width="200" height="200"/></a>| [![Movie-Streaming-Website](https://github-readme-stats.vercel.app/api/pin/?username=shivshankar9&repo=Movie-Streaming-Website )](https://github.com/shivshankar9/Movie-Streaming-Website) <br/> [![structurex](https://github-readme-stats.vercel.app/api/pin/?username=shivshankar9&repo=structurex)](https://github.com/shivshankar9/Structurex) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankar9&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <a href="https://github.com/IIITKalyaniFOSC/GitTub"><img src="./assets/image.png" width="200" height="200"/></a>| [![Student-Portal](https://github-readme-stats.vercel.app/api/pin/?username=shivshankar9&repo=Student-portal )](https://github.com/shivshankar9/Student-portal) <br/> [![structurex](https://github-readme-stats.vercel.app/api/pin/?username=shivshankar9&repo=structurex)](https://github.com/shivshankar9/Structurex) |
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
