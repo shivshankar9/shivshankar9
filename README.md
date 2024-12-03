@@ -16,53 +16,43 @@ Tech stack? I got you covered: **React**, **Spring Boot**, **Java**, and **JavaS
 ### 🛠️ **My Crazy Tech Stack**  
 
 #### **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
 _**"Java mein agar coding karte ho, toh ab Python seekhna mat bhoolna, warna life loop mein chali jaayegi!"_ 😅_
 
 ---
 
 #### **Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Foundation](https://img.shields.io/badge/Foundation-3C3A3A?style=for-the-badge&logo=foundation&logoColor=white)
+
 
 _**"Next.js se website banao, speed ki duniya mein chalna hai!"_ 😎_
 
 ---
 
 #### **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 _**"SQLite ko simple rakhne ka kya matlab? MySQL jaisa dikhne ka aur speed mein tera baap!"_ 😂_
 
 ---
 
 #### **Desktop & Electron Apps:**  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
-![Tauri](https://img.shields.io/badge/Tauri-7B4EE0?style=for-the-badge&logo=tauri&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  ![Tauri](https://img.shields.io/badge/Tauri-7B4EE0?style=for-the-badge&logo=tauri&logoColor=white)  
 
 _**"Electron toh chalu ho gaya, lekin Tauri ko khareedne ki soch raha hoon—easy aur fast!"_ 🔥_
 
 ---
 
 #### **Build Tools:**  
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=maven&logoColor=white)  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white) ![Parcel](https://img.shields.io/badge/Parcel-F3B500?style=for-the-badge&logo=parcel&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) ![Grunt](https://img.shields.io/badge/Grunt-F83E00?style=for-the-badge&logo=grunt&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 
 _**"Gradle aur Maven dono chalu, kyunki jo coding ke masle hain, woh build tools solve karenge!"_ 💻_
 
 ---
 
 #### **Machine Learning (ML) & AI:**  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00B140?style=for-the-badge&logo=python&logoColor=white)  
-![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00B140?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=python&logoColor=white)  
 
 _**"Machine learning se coding ko seekhna hai, par sabse pehle, bugs ko bhagana hai!"_ 🤖_  
 _**"AI ka future bright hai, par kabhi-kabhi debugging bhi dark ho jati hai!"_ 😆_
