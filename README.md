@@ -63,7 +63,7 @@ _**"AI ka future bright hai, par kabhi-kabhi debugging bhi dark ho jati hai!"_ ð
 
 #### **1. When you finally solve that bug after hours of frustration:**  
 _**Expectation:**_  
-![Expectation Meme](https://media.giphy.com/media/3o6ZtY8vFzZLjtEwfk/giphy.gif)  
+![Expectation Meme](./img/giphy(6).gif)  
 _"Maine sab check kiya tha... kahan galti thi?"_
 
 _**Reality:**_  
