@@ -67,43 +67,43 @@ _**Expectation:**_
 _"Maine sab check kiya tha... kahan galti thi?"_
 
 _**Reality:**_  
-![Reality Meme](https://media.giphy.com/media/3o6Zt78xhnl4WgM0bg/giphy.gif)  
+![Reality Meme]()  
 _"Itna time tha... aur yeh ek comma tha!"_
 
 ---
 
 #### **2. When the code works on the first try (Spoiler: It never happens):**  
-![Code First Try Meme](https://media.giphy.com/media/xT0xeJzXrFzHb9lnu8/giphy.gif)  
+![Code First Try Meme]()  
 _"Yeh kab ho sakta hai bhai?!"_ 😅
 
 ---
 
 #### **3. When your friend asks, 'How’s your coding going?'**  
-![Friend Question Meme](https://media.giphy.com/media/xT1XGdbD5iy6h5G6tS/giphy.gif)  
+![Friend Question Meme]()  
 _"Aree kuch samajh nahi aa raha, par thoda-bahut sab theek hai!"_
 
 ---
 
 #### **4. When you realize your bug is caused by that one single line of code you forgot to check:**  
-![Forgot Line Meme](https://media.giphy.com/media/l0MYOQLgP8Zc96tcI/giphy.gif)  
+![Forgot Line Meme]()  
 _"Kahaan tha main? Yeh ek line!"_
 
 ---
 
 #### **5. When your code compiles without errors (But it still feels too good to be true):**  
-![Compilation Meme](https://media.giphy.com/media/3o6Zt7KrCkV2rrDA78/giphy.gif)  
+![Compilation Meme]()  
 _"Ye sach mein chal raha hai?"_ 🤔
 
 ---
 
 #### **6. When you realize the deadline is tomorrow, and you haven’t even started:**  
-![Deadline Meme](https://media.giphy.com/media/3o6Zt74l4t0eELjD3y/giphy.gif)  
+![Deadline Meme]()  
 _"Kal deadline hai... kya karoon?"_ 😱
 
 ---
 
 #### **7. When you find out your solution was already suggested by Google, but 10 minutes later:**  
-![Google Meme](https://media.giphy.com/media/l41lI4vX1uaosx1Xu/giphy.gif)  
+![Google Meme]()  
 _"Pehle Google kyun nahi dekha!"_
 
 ---
@@ -114,7 +114,7 @@ _"Pehle Google kyun nahi dekha!"_
 *Tech Used:* Node.js, TypeScript, SQLite  
 - **Weather app** that fetches data every 5 minutes, because it’s *faster than your WiFi*.  
 - It's like having a weather forecaster in your pocket. No more "Aaj baarish hai kya?" 😜  
-![Weather Meme](https://media.giphy.com/media/3o6ZtY8vFzZLjtEwfk/giphy.gif)  
+![Weather Meme]()  
 _"Bas thoda baarish ke memes zyada ho rahe hain!"_ 🌧️  
 
 ---
