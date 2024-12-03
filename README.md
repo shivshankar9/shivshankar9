@@ -26,28 +26,46 @@ _**"Java mein agar coding karte ho, toh ab Python seekhna mat bhoolna, warna lif
 
 #### **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-_**"React ki tarah, HTML bhi static hai, lekin CSS se sab kuch dynamic hota hai!"_ 😜_
+_**"Next.js se website banao, speed ki duniya mein chalna hai!"_ 😎_
 
 ---
 
 #### **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-_**"Node.js ne diya hai humko speed, par Spring Boot ne diya hai structure... ek kaam kar, dono ko mile kar chalu kar!"_ 🤯_
+_**"SQLite ko simple rakhne ka kya matlab? MySQL jaisa dikhne ka aur speed mein tera baap!"_ 😂_
 
 ---
 
-#### **DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+#### **Desktop & Electron Apps:**  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
+![Tauri](https://img.shields.io/badge/Tauri-7B4EE0?style=for-the-badge&logo=tauri&logoColor=white)  
 
-_**"Docker ki tarah, DevOps ka kaam hai har process ko container mein dalna... tabhi toh aise server hote hain!"_ 🚀_
+_**"Electron toh chalu ho gaya, lekin Tauri ko khareedne ki soch raha hoon—easy aur fast!"_ 🔥_
+
+---
+
+#### **Build Tools:**  
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=maven&logoColor=white)  
+
+_**"Gradle aur Maven dono chalu, kyunki jo coding ke masle hain, woh build tools solve karenge!"_ 💻_
+
+---
+
+#### **Machine Learning (ML) & AI:**  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00B140?style=for-the-badge&logo=python&logoColor=white)  
+![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=python&logoColor=white)  
+
+_**"Machine learning se coding ko seekhna hai, par sabse pehle, bugs ko bhagana hai!"_ 🤖_  
+_**"AI ka future bright hai, par kabhi-kabhi debugging bhi dark ho jati hai!"_ 😆_
 
 ---
 
