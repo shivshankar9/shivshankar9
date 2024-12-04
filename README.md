@@ -4,7 +4,6 @@ Coding the impossible... one bug at a time. 💻
 **Debugger by day**, **Meme Lord by night**. 🎮
 
 ---
-
 ### 🤪 **About Me**  
 I’m not just a developer, I’m an **exception handler** for life.  
 I write code, fix bugs, and crack jokes—because why not? 😎  
@@ -12,7 +11,7 @@ I believe in writing clean code **unless it's 3 AM and I'm racing the deadline.*
 Tech stack? I got you covered: **React**, **Spring Boot**, **Java**, and **JavaScript** (basically everything... except sleep). 😴  
 
 ---
-
+ ![View Count](https://komarev.com/ghpvc/?username=shivshankar9&color=green)  
 ### 🛠️ **My Crazy Tech Stack**  
 
 #### **Languages:**  
@@ -150,7 +149,6 @@ _"Jab client ke paas paisa ho, toh invoice zyada badhiya lagta hai!"_
 - 📧 Email: [shivshankarkumar281@gmail.com](mailto:shivshankarkumar281@gmail.com)  
 - 🔗 LinkedIn: [shivshankarkumar281](https://linkedin.com/in/shivshankarkumar281)  
 - 🧑‍💻 GitHub: [shivshankar9](https://github.com/shivshankar9)  
-- 🏅 HackerRank: [shivshankar9](https://www.hackerrank.com/yourid)  
 ---
 
 ### 🌟 **"Code ka mazaa chai ke bina kaise?!"** ☕  
