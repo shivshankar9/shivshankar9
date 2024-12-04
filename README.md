@@ -37,8 +37,8 @@ _**"SQLite ko simple rakhne ka kya matlab? MySQL jaisa dikhne ka aur speed mein 
 
 ---
 
-#### **Desktop & Electron Apps:**  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  ![Tauri](https://img.shields.io/badge/Tauri-7B4EE0?style=for-the-badge&logo=tauri&logoColor=white)  
+#### **Desktop & Electron Apps & Mobiles:**  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  ![Tauri](https://img.shields.io/badge/Tauri-7B4EE0?style=for-the-badge&logo=tauri&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
 _**"Electron toh chalu ho gaya, lekin Tauri ko khareedne ki soch raha hoon—easy aur fast!"_ 🔥_
 
