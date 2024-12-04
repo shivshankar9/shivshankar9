@@ -63,24 +63,28 @@ _**"AI ka future bright hai, par kabhi-kabhi debugging bhi dark ho jati hai!"_ �
 
 #### **1. When you finally solve that bug after hours of frustration:**  
 _**Expectation:**_  
-![Expectation Meme](./img/giphy(6).gif)  
+<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(1).gif" alt="Expectation Meme" width="200" height="200" />
+ 
 _"Maine sab check kiya tha... kahan galti thi?"_
 
 _**Reality:**_  
-![Reality Meme]()  
+<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="200" height="200" />
+
 _"Itna time tha... aur yeh ek comma tha!"_
 
 ---
 
 #### **2. When the code works on the first try (Spoiler: It never happens):**  
-![Code First Try Meme]()  
+<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="300" height="200" />
+ 
 _"Yeh kab ho sakta hai bhai?!"_ 😅
 
 ---
 
 #### **3. When your friend asks, 'How’s your coding going?'**  
-![Friend Question Meme]()  
+<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(5).gif" alt="Friend Question Meme" width="300" height="200" />
 _"Aree kuch samajh nahi aa raha, par thoda-bahut sab theek hai!"_
+
 
 ---
 
@@ -91,7 +95,7 @@ _"Kahaan tha main? Yeh ek line!"_
 ---
 
 #### **5. When your code compiles without errors (But it still feels too good to be true):**  
-![Compilation Meme]()  
+<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="200" height="200" />
 _"Ye sach mein chal raha hai?"_ 🤔
 
 ---
