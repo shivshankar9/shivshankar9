@@ -11,7 +11,9 @@ I believe in writing clean code **unless it's 3 AM and I'm racing the deadline.*
 Tech stack? I got you covered: **React**, **Spring Boot**, **Java**, and **JavaScript** (basically everything... except sleep). 😴  
 
 ---
- ![View Count](https://komarev.com/ghpvc/?username=shivshankar9&color=green)  
+### 🏅 **My GitHub Profile Hits**  
+![Profile Views](https://komarev.com/ghpvc/?username=shivshankar9)
+
 ### 🛠️ **My Crazy Tech Stack**  
 
 #### **Languages:**  
@@ -148,12 +150,40 @@ _"Aaj se 10 saal baad yeh sab apne boss ko dikhana hai!"_
 _"Jab client ke paas paisa ho, toh invoice zyada badhiya lagta hai!"_
 
 ---
+### 📊 **My GitHub Stats**
 
+![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivshankar9&count_private=true&show_icons=true&theme=radical)
+
+### 🌱 **My Current Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivshankar9&&theme=radical)
+
+### 📈 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankar9&layout=compact&theme=radical)
+# 📊 **Shiv's Developer Stats**
+
+| **Stat**                            | **Value**                                      |
+|-------------------------------------|------------------------------------------------|
+| **Total Commits**                   | 1,234 📈 (Keep them coming!)                   |                   |
+| **Top Language**                    | Java ☕ (Code runs on coffee!)                 |
+| **Contributions in the Last Year**  | 500+ 🌱 (More than my plant’s growth!)         |
+| **Public Repositories**             | 40+ 🛠️ (Building cool things every day!)      |
+| **Profile Views**                   | 1,400+ 👀 (Thank you, lovely visitors!)        |
+
+---
+
+### Fun Fact
+*95% of my code is written under the influence of coffee. The other 5% is pure magic!*
+
+
+---
 ### 📬 **Let's Connect and Make Some Magic (and memes) Together**  
 - 📧 Email: [shivshankarkumar281@gmail.com](mailto:shivshankarkumar281@gmail.com)  
 - 🔗 LinkedIn: [shivshankarkumar281](https://linkedin.com/in/shivshankarkumar281)  
 - 🧑‍💻 GitHub: [shivshankar9](https://github.com/shivshankar9)  
 ---
+### 🤔 **Random Thought:**  
+_"A bad developer blames the tools, but a good developer knows how to debug the tools."_  
+😎 *#MindBlown*
 
 ### 🌟 **"Code ka mazaa chai ke bina kaise?!"** ☕  
 _"Bug-free code, meme-filled life!"_ 😆
