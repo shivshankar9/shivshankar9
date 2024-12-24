@@ -167,7 +167,7 @@ _"Jab client ke paas paisa ho, toh invoice zyada badhiya lagta hai!"_
 | **Top Language**                    | Java ☕ (Code runs on coffee!)                 |
 | **Contributions in the Last Year**  | 500+ 🌱 (More than my plant’s growth!)         |
 | **Public Repositories**             | 40+ 🛠️ (Building cool things every day!)      |
-| **Profile Views**                   | 1,400+ 👀 (Thank you, lovely visitors!)        |
+| **Profile Views**                   | 1,500+ 👀 (Thank you, lovely visitors!)        |
 
 ---
 
