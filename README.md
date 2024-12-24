@@ -129,7 +129,7 @@ _"Bas thoda baarish ke memes zyada ho rahe hain!"_ 🌧️
 *Tech Used:* Java, Spring Boot, Redis, Kafka, MySQL  
 - Built an **E-wallet** app to send and receive payments, minus the wallet-seeking panic.  
 - It does everything Paytm does... minus the stress.  
-![E-Wallet Meme](https://media.giphy.com/media/3o6Zt78xhnl4WgM0bg/giphy.gif)  
+![E-Wallet Meme](https://media.giphy.com/media78xhnl4WgM0bg/giphy.gif)  
 _"Jab wallet ka balance dekho, toh wajah yeh hota hai!"_ 💸
 
 ---
@@ -138,7 +138,7 @@ _"Jab wallet ka balance dekho, toh wajah yeh hota hai!"_ 💸
 *Tech Used:* React, Java, Spring Boot, MySQL  
 - A system to manage employees without them *managing* you.  
 - Work with employees like a pro, minus the admin headache!  
-![Employee Meme](https://media.giphy.com/media/26tP4LSgfi6Zck3Cm/giphy.gif)  
+![Employee Meme](https://media.giphy.com/me26tP4Lgfi6Zck3Cm/giphy.gif)  
 _"Aaj se 10 saal baad yeh sab apne boss ko dikhana hai!"_
 
 ---
@@ -146,7 +146,7 @@ _"Aaj se 10 saal baad yeh sab apne boss ko dikhana hai!"_
 #### **📱 Billing Android App**  
 *Tech Used:* Java, Android, MySQL, RESTful APIs  
 - An app to generate invoices so fast that your customer won’t even have time to say, “Gimme a minute!”  
-![Billing Meme](https://media.giphy.com/media/3o6Zt74l4t0eELjD3y/giphy.gif)  
+![Billing Meme](https://media.giphy.com/3o6Zt74l4t0eELjD3y/giphy.gif)  
 _"Jab client ke paas paisa ho, toh invoice zyada badhiya lagta hai!"_
 
 ---
