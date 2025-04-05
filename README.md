@@ -59,60 +59,10 @@ _**"Gradle aur Maven dono chalu, kyunki jo coding ke masle hain, woh build tools
 _**"Machine learning se coding ko seekhna hai, par sabse pehle, bugs ko bhagana hai!"_ 🤖_  
 _**"AI ka future bright hai, par kabhi-kabhi debugging bhi dark ho jati hai!"_ 😆_
 
----
-
-### 😎 **Meme Time (Because We All Need Laughs)**
-
-#### **1. When you finally solve that bug after hours of frustration:**  
-_**Expectation:**_  
-<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(1).gif" alt="Expectation Meme" width="200" height="200" />
- 
-_"Maine sab check kiya tha... kahan galti thi?"_
-
-_**Reality:**_  
-<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="200" height="200" />
-
-_"Itna time tha... aur yeh ek comma tha!"_
-
----
-
-#### **2. When the code works on the first try (Spoiler: It never happens):**  
-<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="300" height="200" />
- 
-_"Yeh kab ho sakta hai bhai?!"_ 😅
-
----
-
-#### **3. When your friend asks, 'How’s your coding going?'**  
-<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(5).gif" alt="Friend Question Meme" width="300" height="200" />
-_"Aree kuch samajh nahi aa raha, par thoda-bahut sab theek hai!"_
 
 
----
-
-#### **4. When you realize your bug is caused by that one single line of code you forgot to check:**  
-![Forgot Line Meme]()  
-_"Kahaan tha main? Yeh ek line!"_
-
----
-
-#### **5. When your code compiles without errors (But it still feels too good to be true):**  
-<img src="https://raw.githubusercontent.com/shivshankar9/shivshankar9/main/Img/giphy%20(2).gif" alt="Expectation Meme" width="200" height="200" />
-_"Ye sach mein chal raha hai?"_ 🤔
-
----
-
-#### **6. When you realize the deadline is tomorrow, and you haven’t even started:**  
-![Deadline Meme]()  
-_"Kal deadline hai... kya karoon?"_ 😱
-
----
-
-#### **7. When you find out your solution was already suggested by Google, but 10 minutes later:**  
-![Google Meme]()  
-_"Pehle Google kyun nahi dekha!"_
-
----
+#### **1. When your code compiles without errors (But it still feels too good to be true):**  
+_
 
 ### 🚀 **Projects I’ve Created (Because I Didn’t Sleep for 3 Days)**
 
